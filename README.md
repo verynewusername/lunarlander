@@ -149,6 +149,9 @@ This performs t-tests comparing agent performance under different conditions.
 - Environmental complexity affects all agents but DQN shows best adaptability
 - Statistical tests confirm significant performance differences
 
+### 📋 Detailed Report
+For comprehensive analysis, methodology, and detailed results, see the full project report: [Reinforcement Learning Project - Lunar Landing](https://efesirin.com/Reinforcement_Learning_Project_Lunar_Landing.pdf)
+
 ## 🔬 Technical Details
 
 ### Training Configuration
