@@ -187,8 +187,8 @@ For more details, see the [LICENSE](LICENSE) file or visit [https://www.gnu.org/
 
 ## 👥 Authors
 
-- **Efe Görkem Şirin** - S4808746
-- **Nihat Aksu** - S4709039
+- **Efe Görkem Şirin**
+- **Nihat Aksu**
 
 *Date: 30/01/2024*
 
